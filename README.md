@@ -1,2 +1,2 @@
-# GifExpertApp
+# GifApp
 Created with CodeSandbox
